@@ -2,9 +2,7 @@
   "name": "chrome-pin-tab",
   "version": "1.0.0",
   "description": "Extension to pin tab via shortcut",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --out-dir build --copy-files --presets es2015"
   },
   "repository": {
