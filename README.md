@@ -2,6 +2,7 @@
 Easy extension to pin/unpin the current tab with a hotkey. 
 
 On Mac: `ctrl + t`
+
 Others (Not Tested): `Ctrl+Shift+Q`
 
 ## Install
