@@ -13,10 +13,7 @@
 
         tabs.getSelected(function (_ref) {
             var pinned = _ref.pinned;
-
-            tabs.update({ id: id }, {
-                pinned: !pinned
-            });
+	    tabs.update(_ref.id, { pinned: !pinned })
         });
     });
 })();
