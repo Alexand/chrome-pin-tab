@@ -17,8 +17,8 @@
   "commands": {
       "toggle-pintab": {
         "suggested_key": {
-          "default": "Ctrl+Shift+Q",
-          "mac": "MacCtrl+T"
+          "default": "Alt+P",
+          "mac": "MacCtrl+P"
         },
         "description": "Pin Tab"
       }
